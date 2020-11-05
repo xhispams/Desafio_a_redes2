@@ -10,6 +10,6 @@ def scan_addicts2(array) results = []
         results.push 'bien' 
     end
     end
-        results
+    results
 end
 print scan_addicts2(array)
